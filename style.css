@@ -14,7 +14,15 @@ body {
     padding-bottum: 20px;
     font-family: Monospace;
     font-size: large;
+    
   }
+
+  <button class="button button1">2px</button>
+  <button class="button button2">4px</button>
+  <button class="button button3">8px</button>
+  <button class="button button4">12px</button>
+  <button class="button button5">50%</button> 
+  
   button:hover {
-    background-color: gray;
+    background-color: rgba(196, 33, 33, 0.842);
   }
