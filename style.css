@@ -1,20 +1,20 @@
 body {
-  background-color: white;
-}
-h1 {
-  color: black;
-}
-button {
-  background-color: red;
-  color: white
-  border-radius: 5px;
-  padding-left: 30px;
-  padding-right: 30px;
-  padding-top: 20px;
-  padding-bottum: 20px;
-  font-family: sans-serif;
-  font-size: large;
-}
-button:hover {
-  background-color: gray;
-}
+    background-image: url("https://cdn.discordapp.com/attachments/1260688037361352784/1274156376448565291/2466-shooting-star-pfpsgg.gif?ex=66c13a18&is=66bfe898&hm=519a867c26102a9d9e71af3f1b210d31c401a5bedc29c11318d243408e5f4ad9&");
+  }
+  h1 {
+    color: black;
+  }
+  button {
+    background-color: red;
+    color: white
+    border-radius: 5px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 20px;
+    padding-bottum: 20px;
+    font-family: Monospace;
+    font-size: large;
+  }
+  button:hover {
+    background-color: gray;
+  }
