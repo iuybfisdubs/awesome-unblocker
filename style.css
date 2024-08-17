@@ -1,5 +1,5 @@
 body {
-    background-image: url("https://cdn.discordapp.com/attachments/1260688037361352784/1274156376448565291/2466-shooting-star-pfpsgg.gif?ex=66c13a18&is=66bfe898&hm=519a867c26102a9d9e71af3f1b210d31c401a5bedc29c11318d243408e5f4ad9&");
+    background-color: black;
   }
   h1 {
     color: black;
@@ -7,15 +7,15 @@ body {
   button {
     background-color: red;
     color: white
-    border-radius: 5px;
+    border-radius: 20px;
     padding-left: 30px;
     padding-right: 30px;
     padding-top: 20px;
-    padding-bottum: 20px;
+    padding-radius: 20px;
     font-family: Monospace;
     font-size: large;
     
-  }
+   }
 
   button:hover {
     background-color: rgba(196, 33, 33, 0.842);
